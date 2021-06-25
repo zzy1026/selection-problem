@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\研二上\算法\108062468_hw5\selection_problem\selection_problem\main.cpp(73): warning C4244: “初始化”: 从“_Rep”转换到“double”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+e:\研二上\算法\108062468_hw5\selection_problem\selection_problem\main.cpp(154): warning C4244: “初始化”: 从“_Rep”转换到“double”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+  正在生成代码
+  All 252 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  selection_problem.vcxproj -> E:\研二上\算法\108062468_HW5\selection_problem\Release\selection_problem.exe

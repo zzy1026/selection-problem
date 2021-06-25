@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\研二上\算法\hw5\selection_problem\selection_problem\main.cpp(132): warning C4244: “初始化”: 从“_Rep”转换到“double”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+e:\研二上\算法\hw5\selection_problem\selection_problem\main.cpp(158): warning C4244: “初始化”: 从“_Rep”转换到“double”，可能丢失数据
+          with
+          [
+              _Rep=__int64
+          ]
+  selection_problem.vcxproj -> E:\研二上\算法\hw5\selection_problem\Debug\selection_problem.exe
